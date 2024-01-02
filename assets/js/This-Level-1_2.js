@@ -23,8 +23,8 @@ let person = {
                 <div>
                     <h1>${this.vorname} ${this.nachname}</h1>
                     <p>Alter: ${this.alter}</p>
-                    <p>Familienstand: ${this.familienstand}</p>
                     <p>Größe: ${this.groesse}</p>
+                    <p>Familienstand: ${this.familienstand}</p>
                     </div>
                 `;
     }
