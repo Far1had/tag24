@@ -41,11 +41,10 @@ let edelMetallPreise = [
     return edelMetall.preiseGramEuro > 50;
   });
 
-  // Gib alles als Tabelle in deinem HTML-Dokument aus.
   document.write("<table border='1'>");
   document.write("<tr><th>Name</th><th>Preis pro Gramm (Euro)</th><th>Veränderung</th></tr>");
 
-  // Ausgabe der Daten in HTML-Tabelle
+
   for (let i = 0; i < edelMetallPreise.length; i++) {
     document.write("<tr>");
     document.write("<td>" + edelMetallPreise[i].name + "</td>");
