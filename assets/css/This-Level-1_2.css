@@ -30,7 +30,7 @@ article {
     margin: 10%;
     width: 120%;
     height: 120%;
-    border: 50px solid rgb(28, 94, 148);
+    border: 50px inset rgb(28, 94, 148);
     border-radius: 50px;
     height: 100%;
     background-color: rgb(28, 94, 1486);
@@ -65,7 +65,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid green;
+    border: 1px outset green;
     margin-bottom: 3%;
     padding: 5%;
 
