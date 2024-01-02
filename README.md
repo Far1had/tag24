@@ -1,2 +1,2 @@
 # tag24
-hier sind die meine bearbeitung der aufgaben am "Tag34".
+Hier befinden sich meine bearbeitung der Aufgaben vom "Tag34".
