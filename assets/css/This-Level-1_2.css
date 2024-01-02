@@ -24,6 +24,7 @@ body {
     transition: background 0.5s;
     font-family: inter;
     margin: 10%;
+    background: conic-gradient(red, yellow, green, blue), linear-gradient(to right, red, blue);
 }
 
 article {
