@@ -24,11 +24,10 @@ body {
     transition: background 0.5s;
     font-family: inter;
     margin: 10%;
-    background: conic-gradient(red, yellow, green, blue), linear-gradient(to right, red, blue);
+    background: conic-gradient(red, yellow, green, blue);
 }
 
 article {
-    margin: 10%;
     width: 120%;
     height: 120%;
     border: 50px inset rgb(28, 94, 148);
@@ -42,7 +41,7 @@ div {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 20%;
+    margin-top: 5%;
 }
 
 h1 {
