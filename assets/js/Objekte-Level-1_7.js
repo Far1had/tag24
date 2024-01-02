@@ -22,13 +22,8 @@ let myMusic = [
   ];
 
   myMusic.forEach(function(item) {
-    // Alle "artist"
     document.getElementById("artistsOutput").innerHTML += item.artist + "<br>";
-
-    // Alle "title"
     document.getElementById("titlesOutput").innerHTML += item.title + "<br>";
-
-    // Alle "medium"
     document.getElementById("mediumsOutput").innerHTML += item.medium + "<br>";
   });
 
