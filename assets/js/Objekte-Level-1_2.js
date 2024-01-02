@@ -1,5 +1,5 @@
 let person = {
-    name: "Farhad",
+    name: "Amini",
     alter: 51,
     sagNameAlter: function() {
     alert("Mein Name ist " + this.name + " und ich bin " + this.alter + " Jahre alt.");
